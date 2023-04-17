@@ -1,0 +1,3 @@
+[submodule "test_task"]
+	path = test_task
+	url = https://github.com/AX2048/test_task.git
