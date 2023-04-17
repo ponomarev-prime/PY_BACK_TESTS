@@ -2,7 +2,7 @@
 
 # PYTHON BACKEND TESTS
 
-PYTHON BACKEND TESTS
+`git clone --recurse-submodules https://github.com/AX2048/PY_BACK_TESTS.git`
 
 [ PY BACK TESTS ]
 
